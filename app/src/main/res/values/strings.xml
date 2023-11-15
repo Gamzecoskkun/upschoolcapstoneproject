@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">L&amp;S</string>
+    <string name="new_user_info">Don\'t have an account ?</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="total_amount">Total Amount:</string>
+    <string name="buy_now"> </string>
+    <string-array name="Months">
+    <item> January</item>
+    <item>February </item>
+    <item> March </item>
+    <item> April </item>
+    <item>May </item>
+    <item> June </item>
+    <item> July</item>
+    <item>August  </item>
+    <item>September </item>
+    <item>October  </item>
+    <item> November </item>
+    <item> December </item>
+    </string-array>
+
+    />
+
+
+</resources>
